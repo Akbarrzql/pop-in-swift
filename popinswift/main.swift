@@ -9,6 +9,8 @@ import Foundation
 
 print("Hello, World!")
 
+//task motion week 3 basic swift
+
 // Protocol
 protocol Kendaraan {
     var nama: String { get }
